@@ -1,5 +1,5 @@
 # SLP
-Protocol Link: () <br />
+Protocol Link: ( https://drive.google.com/file/d/128xx8qwEzEYHplCTlgGA-JcLnlEsFc5q/view?usp=sharing ) <br />
 <br />
 Plasmids & Sequence Files- Benchling Links: <br />
 Plasmids: <br />
