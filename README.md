@@ -13,6 +13,8 @@ This is the Cas9 & guide combo plasmid which targets the syntheitc landing pad <
 pZCS16 (https://benchling.com/s/seq-054XEhkchQaadFDv1u7G)<br />
 If a co-marker is desired for marking arrays (generally speaking we do not recommend doing this). This is our recommended co-marker. <br />
 <br />
+Strain:
+<br />
 PX696 (https://benchling.com/s/seq-QKhVdT5ErPJdqrRh8Sw1) <br />
 This is the insertion strain sequence. <br />
 <br />
