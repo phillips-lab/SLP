@@ -1,4 +1,4 @@
-# SLP
+# Split selection landing pad & in-situ assembly protocol
 Protocol Link: (https://drive.google.com/file/d/1Kg_0jkiSXhNU0EhHxkLUoWWjghOudA70/view?usp=sharing) <br />
 <br />
 Plasmids & Sequence Files- Benchling Links: <br />
