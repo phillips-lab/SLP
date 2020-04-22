@@ -1,7 +1,7 @@
 # Split selection landing pad & in-situ assembly protocol
 Protocol Link: (https://drive.google.com/file/d/1Kg_0jkiSXhNU0EhHxkLUoWWjghOudA70/view?usp=sharing) <br />
 <br />
-Preprint and publication coming soon!
+Preprint and publication coming soon!<br />
 <br />
 Plasmids & Sequence Files- Benchling Links: <br />
 Plasmids: <br />
