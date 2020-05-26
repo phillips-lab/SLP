@@ -7,7 +7,7 @@ Plasmids & Sequence Files- Benchling Links: <br />
 Plasmids: <br />
 <br />
 pMS81 (https://benchling.com/s/seq-R4EH8NBa1F1H664YrV7B)<br />
-Insertion vector plasmid for split integration in the chromosome II site. . <br />
+Insertion vector plasmid for split integration in the chromosome II site. <br />
 <br />
 pMS79 (https://benchling.com/s/seq-D33sAg6kZoLrCvr13n8J)<br />
 Cas9 & guide all-in-one plasmid targeting the PX696 landing pad  <br />
@@ -15,10 +15,18 @@ Cas9 & guide all-in-one plasmid targeting the PX696 landing pad  <br />
 pZCS16 (https://benchling.com/s/seq-054XEhkchQaadFDv1u7G)<br />
 Optional co-marker. <br />
 <br />
+pZCS52 (https://benchling.com/s/seq-chIp5pVybr0toshIMyYG)
+<br />
+sqt-1(e1350)donor homology<br />
+<br />
+pZCS23 (https://benchling.com/s/seq-rEXZfb52mc7Gr33eVOXl)<br />
+CRE expressing plasmid<br />
+<br />
 Strain:
 <br />
 PX696 (https://benchling.com/s/seq-QKhVdT5ErPJdqrRh8Sw1) <br />
 The chromosome II insertion strain sequence <br />
 <br />
 To use these files in software like ApE, download the .gb file format<br />
+
 
