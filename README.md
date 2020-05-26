@@ -7,7 +7,6 @@ Addgene links and information will be avalible post lab-reopening from Covid shu
 <br />
 Plasmids & Sequence Files- Benchling Links: <br />
 Plasmids: <br />
-<br />
 pMS81 (https://benchling.com/s/seq-R4EH8NBa1F1H664YrV7B)<br />
 Insertion vector plasmid for split integration in the chromosome II site <br />
 <br />
