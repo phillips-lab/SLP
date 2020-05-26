@@ -7,13 +7,13 @@ Plasmids & Sequence Files- Benchling Links: <br />
 Plasmids: <br />
 <br />
 pMS81 (https://benchling.com/s/seq-R4EH8NBa1F1H664YrV7B)<br />
-Insertion vector plasmid for split integration in the chromosome II site. <br />
+Insertion vector plasmid for split integration in the chromosome II site <br />
 <br />
 pMS79 (https://benchling.com/s/seq-D33sAg6kZoLrCvr13n8J)<br />
 Cas9 & guide all-in-one plasmid targeting the PX696 landing pad  <br />
 <br />
 pZCS16 (https://benchling.com/s/seq-054XEhkchQaadFDv1u7G)<br />
-Optional co-marker. <br />
+Optional co-marker <br />
 <br />
 pZCS52 (https://benchling.com/s/seq-chIp5pVybr0toshIMyYG)
 <br />
