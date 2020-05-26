@@ -3,7 +3,7 @@ Protocol Link: (https://drive.google.com/file/d/1Kg_0jkiSXhNU0EhHxkLUoWWjghOudA7
 <br />
 Preprint and publication coming soon!<br />
 <br />
-Addgene links and information will be avalible post lab-reopening from Covid shutdown. 
+Addgene links and information will be avalible post lab-reopening from Covid shutdown.<br />
 <br />
 Plasmids & Sequence Files- Benchling Links: <br />
 Plasmids: <br />
