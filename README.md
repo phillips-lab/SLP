@@ -3,6 +3,8 @@ Protocol Link: (https://drive.google.com/file/d/1Kg_0jkiSXhNU0EhHxkLUoWWjghOudA7
 <br />
 Preprint and publication coming soon!<br />
 <br />
+Addgene links and information will be avalible post lab-reopening from Covid shutdown. 
+<br />
 Plasmids & Sequence Files- Benchling Links: <br />
 Plasmids: <br />
 <br />
@@ -21,6 +23,12 @@ sqt-1(e1350)donor homology<br />
 <br />
 pZCS23 (https://benchling.com/s/seq-rEXZfb52mc7Gr33eVOXl)<br />
 CRE expressing plasmid<br />
+<br />
+pMS74 (https://benchling.com/s/seq-CN2GupAnLSrA0g9IKHPb)<br />
+Vector for HygR LP insertion, SG5<br />
+<br />
+pMS4 (https://benchling.com/s/seq-pOsYKSUUVy1ytoDI8t1Y)<br />
+ChrII insertion vector with SEC<br />
 <br />
 Strain:
 <br />
