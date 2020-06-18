@@ -1,5 +1,5 @@
 # Split selection landing pad & in-situ assembly protocol
-Preprint: https://www.biorxiv.org/content/10.1101/2020.05.26.117390v1https://www.biorxiv.org/content/10.1101/2020.05.26.117390v1<br />
+Preprint: https://www.biorxiv.org/content/10.1101/2020.05.26.117390v1<br />
 <br />
 Now Accepted at G3! Link will be avalible once published.<br />
 <br />
