@@ -1,4 +1,4 @@
-# Split selection landing pad & in-situ assembly protocol
+# Split selection landing pad & in-situ assembly protocol & updates
 Preprint: https://www.biorxiv.org/content/10.1101/2020.05.26.117390v1<br />
 <br />
 Now Accepted at G3! Link will be avalible once published.<br />
@@ -38,5 +38,7 @@ PX696 (https://benchling.com/s/seq-QKhVdT5ErPJdqrRh8Sw1) <br />
 The chromosome II insertion strain sequence <br />
 <br />
 To use these files in software like ApE, download the .gb file format<br />
+<br />
+Future strains and their information will be avalible here once they are ready.
 
 
