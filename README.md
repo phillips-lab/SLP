@@ -1,4 +1,11 @@
-# Split selection landing pad & in-situ assembly protocol & updates
+# Split selection landing pad & in-situ assembly protocol & updates<br />
+<br />
+Contact Information:<br />
+<br />
+Zach Stevenson: zstevens at uoregon.edu<br />
+<br />
+Megan Moerdyk-Schauwecker: mmoerdyk at uoregon.edu<br />
+<br />
 Preprint: https://www.biorxiv.org/content/10.1101/2020.05.26.117390v1<br />
 <br />
 Now Accepted at G3! Link will be avalible once published.<br />
