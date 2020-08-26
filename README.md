@@ -41,7 +41,7 @@ Addgene: https://www.addgene.org/154838/ <br />
 <br />
 pMS4 (https://benchling.com/s/seq-pOsYKSUUVy1ytoDI8t1Y)<br />
 ChrII insertion vector with SEC<br />
-Addgene: https://www.addgene.org/154837/
+Addgene: https://www.addgene.org/154837/<br />
 <br />
 Strain:
 <br />
