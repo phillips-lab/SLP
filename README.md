@@ -24,6 +24,8 @@ pMS79 (https://benchling.com/s/seq-D33sAg6kZoLrCvr13n8J)<br />
 Cas9 & guide all-in-one plasmid targeting the PX696 landing pad  <br />
 <br />
 pZCS16 (https://benchling.com/s/seq-054XEhkchQaadFDv1u7G)<br />
+<br />
+Addgene: https://www.addgene.org/154824/
 Optional co-marker <br />
 <br />
 pZCS52 (https://benchling.com/s/seq-chIp5pVybr0toshIMyYG)
