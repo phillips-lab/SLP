@@ -52,6 +52,6 @@ CGC: https://cgc.umn.edu/strain/PX696 <br />
 To use these files in software like ApE, download the .gb file format<br />
 ApE can be downloaded at: https://jorgensen.biology.utah.edu/wayned/ape/  <br />
 <br />
-Future strains and their information will be avalible here once they are ready.
+Future strain landing pad strains on Chr. I and III along with SEC vectors will be published here once they are ready for distribution.
 
 
